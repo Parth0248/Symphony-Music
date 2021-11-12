@@ -1,13 +1,6 @@
 # Symphony
 
-## Music database created for DNA project 4
-
-## Team Members
-Prerak Srivastava - 2020111013
-
-Parth Maradia - 2020111006
-
-Harshita - 2020101078
+## Music Streaming Platform based on full implementation of DBSM
 
 ## List of Commands
  
